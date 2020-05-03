@@ -29,7 +29,7 @@ class _InputPageState extends State<InputPage> {
           _crearFecha(context),
           Divider(),
           _crearPersona(),
-          Divider(),
+          // Divider(),
         ],
       ),
     );
